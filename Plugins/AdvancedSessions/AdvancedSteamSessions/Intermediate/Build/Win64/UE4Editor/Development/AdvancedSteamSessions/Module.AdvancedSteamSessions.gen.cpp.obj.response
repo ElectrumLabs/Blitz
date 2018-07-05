@@ -24,10 +24,10 @@
 /w44668
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Private"
-/I C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Source
-/I C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes
-/I C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions
-/I C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions
+/I "C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Source"
+/I "C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions\Classes"
+/I "C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSteamSessions"
+/I "C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Source\AdvancedSteamSessions"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async"
@@ -376,10 +376,10 @@
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Networking\Public\Interfaces\IPv4"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Networking\Public\Interfaces\Steam"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Networking"
-/I C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSessions\Source
-/I C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes
-/I C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions
-/I C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions
+/I "C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSessions\Source"
+/I "C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions\Classes"
+/I "C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSessions\Intermediate\Build\Win64\UE4Editor\Inc\AdvancedSessions"
+/I "C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSessions\Source\AdvancedSessions"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\ThirdParty\Steamworks\Steamv139\sdk\public"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Source\ThirdParty\Steamworks"
 /I "C:\Program Files\Epic Games\UE_4.19\Engine\Plugins\Online\OnlineSubsystemSteam\Source\Classes"
@@ -389,9 +389,9 @@
 /FI"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp"
-/FI"C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
-/Fo"C:\Users\John\Documents\GitHub\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
+"C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp"
+/FI"C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Definitions.AdvancedSteamSessions.h"
+/Fo"C:\Users\Brian Bui\Documents\Unreal Projects\Blitz\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win64\UE4Editor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.gen.cpp.obj"
 /TP
 /GR-
 /W4
